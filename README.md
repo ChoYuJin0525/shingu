@@ -10,3 +10,4 @@ example} 송상준 0001
 [MarkDown 문법]: http://scriptogr.am/myevan/post/markdown-syntax-guide-for-scriptogram
 [Git 명령어]: http://blog.outsider.ne.kr/572
 
+정보통신정공 2학년 B반 조유진입니다.
